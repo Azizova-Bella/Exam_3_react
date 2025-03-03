@@ -264,7 +264,7 @@ function Layout() {
             <p className="text-gray-600">support@amaz.markets</p>
 
             <p className="mt-4 font-semibold">Follow Us:</p>
-            <div className="flex w-[30px] justify-center md:justify-start space-x-3 mt-2 text-gray-700 ">
+            <div className="flex w-[30px]  justify-center md:justify-center space-x-3 mt-2 text-gray-700 ">
               <img src={icon1} alt="" />
               <img src={icon2} alt="" />
               <img src={icon3} alt="" />
